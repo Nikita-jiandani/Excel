@@ -1,2 +1,2 @@
 # Excel
-Excel Dashboard
+Dashboard on sales analysis
